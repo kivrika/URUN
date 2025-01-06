@@ -1,0 +1,6 @@
+@URUN_HostAddress = http://localhost:5072
+
+GET {{URUN_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
